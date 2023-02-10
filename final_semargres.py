@@ -2,7 +2,6 @@ import sys, os
 import pandas as pd # working with data
 import numpy as np # working with arrays
 import matplotlib.pyplot as plt # visualization
-import seaborn as sns # visualization
 import plotly.express as px # visualization
 import datetime as dt # time and date
 import streamlit as st # streamlit
