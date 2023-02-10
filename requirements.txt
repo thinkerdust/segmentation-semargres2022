@@ -1,0 +1,9 @@
+python==3.9.15
+pip==22.3.1
+pandas==1.5.2
+numpy==1.24.1
+matplotlib==3.6.2
+plotly==5.11.0
+streamlit==1.16.0
+scikit-learn==1.2.0
+yellowbrick==1.5
