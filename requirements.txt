@@ -1,9 +1,4 @@
-python==3.9
-pip
+streamlit
 pandas
 numpy
 matplotlib
-plotly
-streamlit==1.16.0
-scikit-learn
-yellowbrick
