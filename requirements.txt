@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 plotly
-streamlit
+streamlit==1.16.0
 scikit-learn
 yellowbrick
